@@ -1,0 +1,15 @@
+product controller  has 5 features
+
+
+1) add a product   done
+2)get products   done
+3)get a single product done
+4)Rate  product   done
+5) filter product   done
+
+
+user controller
+singup   donne
+login   done
+
+

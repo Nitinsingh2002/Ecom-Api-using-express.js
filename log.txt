@@ -1,0 +1,52 @@
+Thu Dec 14 2023 14:33:49 GMT+0530 (India Standard Time).Log Data Created: [object Object]
+Thu Dec 14 2023 14:42:19 GMT+0530 (India Standard Time) - /api/users/signIn -{"email":"user@gmail.com","password":"userpassword"}{"level":"info","message":"/signIn - {\"email\":\"user@gmail.com\",\"password\":\"userpassword\"}","service":"request-logging"}
+{"level":"info","message":"/signIn - {\"email\":\"user@gmail.com\",\"password\":\"userpassword\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signIn - {\"email\":\"user@gmail.com\",\"password\":\"userpassword\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signIn - {\"email\":\"user@gmail.com\",\"password\":\"userpassword\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signIn - {\"email\":\"user@gmail.com\",\"password\":\"userpassword\"}","service":"request-logging"}
+{"level":"info","message":"/ - {}","service":"request-logging"}
+{"level":"info","message":"/ - {}","service":"request-logging"}
+{"level":"info","message":"/1 - {}","service":"request-logging"}
+{"level":"info","message":"/ - {}","service":"request-logging"}
+{"level":"info","message":"/ - {}","service":"request-logging"}
+{"level":"info","message":"/ - {}","service":"request-logging"}
+{"level":"info","message":"POST / - {}","service":"request-logging"}
+{"level":"info","message":"GET / - {}","service":"request-logging"}
+{"level":"info","message":"GET / - {}","service":"request-logging"}
+{"level":"info","message":"GET /api/products - {}","service":"request-logging"}
+{"level":"info","message":"GET /api/products - {}","service":"request-logging"}
+{"level":"info","message":"GET /api/products - {}","service":"request-logging"}
+{"level":"info","message":"/api/products - {}","service":"request-logging"}
+{"level":"info","message":"/favicon.ico - {}","service":"request-logging"}
+{"level":"info","message":"/api/products - {}","service":"request-logging"}
+{"level":"info","message":"/favicon.ico - {}","service":"request-logging"}
+{"level":"info","message":"/api/products - {}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems?ProductId=2&quantity=5 - {}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems?ProductId=2&quantity=5 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userId=1&productId=2&rating=9 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userId=1&productId=2&rating=8 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userId=10&productId=2&rating=8 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userId=10&productId=2&rating=8 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userId=1&productId=12&rating=8 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/13 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/get-products/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userId=1&productId=12&rating=8 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userId=1&productId=12&rating=8 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userId=1&productId=12&rating=8 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userId=1&productId=12&rating=8 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userId=1&productId=12&rating=8 - {}","service":"request-logging"}
